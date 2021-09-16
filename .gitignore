@@ -55,5 +55,8 @@ dkms.conf
 *.doc
 *.ppt
 
+# IDE
+.vscode
+
 # Output
 target/
